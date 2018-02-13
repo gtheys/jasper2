@@ -74,3 +74,14 @@ martin:
   facebook: False
   twitter: False
   cover: False
+geert:
+  username: geert
+  name: Geert Theys
+  location: Bangkok, Thailand
+  url_full: http://geerttheys.com
+  url: geerttheys.com
+  bio: Some dude on the internet
+  picture: assets/images/martin.jpg
+  facebook: geerttheys
+  twitter: toadi
+  cover: False
