@@ -1,16 +1,21 @@
-speeches:
-  name: speeches
-  description: Some of the greatest words ever spoken.
-  cover: assets/images/speeches.jpg
-fiction:
-  name: fiction
-  description: False
+agile:
+  name: agile
+  description: Some opinions about agile I would like to share.
   cover: False
-fables:
-  name: fables
-  description: A series of short stories that make you think.
-  cover: assets/images/fables.jpg
-getting-started:
-  name: getting-started
-  description: False
+personal:
+  name: personal
+  description: Various topics ranging from personal opinions our life improvements.
   cover: False
+devops:
+  name: devops
+  description: I'm a developer with system admin skills.
+  cover: False
+aws:
+  name: aws
+  description: I love Amazon webservices. Best improvement in software engineers since decades.
+  cover: False
+programming:
+  name: programming
+  description: As a developer I like to share some tips.
+  cover: False
+  
